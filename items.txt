@@ -1,0 +1,30 @@
+produce
+111
+white potatoes
+1.23
+3.4
+canned
+555
+14 oz. Del Monte corn
+0.85
+canned
+222
+28 oz. Green Giant green beans
+2.75
+canned
+789
+13.5 oz. Pitted Kalamata Olives
+5.99
+produce
+654
+bananas
+0.59
+1.49
+canned
+233
+10.75 oz Noodle Soup
+3.25
+
+
+
+ 
